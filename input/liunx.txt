@@ -1,0 +1,75 @@
+﻿常见命令
+
+chmod 777 文件名字  	权限最大
+vi 文件名字  		编辑
+mkdir 文件名字 		创建
+ll 			详细查看
+cd 目录			切换目录
+cp 文件名称        	复制
+mv 文件名称       	移动 重命名
+rm 文件名称 		删除
+cd .. 			返回上一级
+tree			查看详细目录(树型)
+rpm -ivh 安装包名称.rpm 	安装后缀名.rpm的软件
+yum install 名称	安装
+pwd			查看当前目录
+cat (参数:-n,-b) 文件,文件... 查看选择部分文件内容 b=序号过滤空文件
+service sshd restart
+service network restart
+先yes再
+
+
+
+常见目录
+
+/ 		根目录
+/bin 		放可执行文件
+/home 		放用户
+/opt 		放开发代码
+/boot 		放操作系统(不可删除)
+
+
+
+说明
+
+xshell 远程操作终端
+
+
+
+
+单个小知识点
+
+vi  /etc/sysconfig/i18n		编辑语言配置文件 LANG="zh_CN.UTF-8"
+
+vmnet1用桥接网络,ymnet8用nat网络
+
+带gui=带桌面
+
+/etc/sysconfig/network-scripts/ifcfg-lo
+复制一个名称为ifcfg-eth0
+DEVICE=eth0  			网络名称
+IPADDR=192.168.74.10		IP地址
+NETMASK=255.255.255.0		子网掩码
+onboot=yes			是否开机就启动
+NAME=eth0			代号 可忽略
+
+TYPE=Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=none
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+IPV6INIT=yes
+IPV6_AUTOCONF=yes
+IPV6_DEFROUTE=yes
+IPV6_FAILURE_FATAL=no
+IPV6_ADDR_GEN_MODE=stable-privacy
+NAME=ens33
+UUID=3cd3e561-0ac4-4cb4-b889-424689406dd9
+DEVICE=ens33
+ONBOOT=no
+IPADDR=192.168.74.11
+PREFIX=24
+GATEWAY=192.168.74.1
+IPV6_PRIVACY=no
+

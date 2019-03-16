@@ -1,0 +1,52 @@
+﻿unique 唯一的 独特的 稀罕的
+primary 主要的 初级的 基本的 原色
+foreign 外国的 外交的
+increment 增量 增加
+pointer 指示器 指针
+array 数组 排列
+negative 负的
+format 格式化 板式
+protected 受保护的 防卫
+while 当...的时候 然而 虽然
+switch 转换 开关
+edit 编辑 校订
+handle 处理 操作
+refuse 拒绝 垃圾
+drive 发动 驱动
+boot 启动 鞋子 引导
+modify 修饰 修改
+registry 登记处 注册
+enable 使能够 授予(权力或方法)
+disable 使失去 使其不能够
+create 创建
+wireless 无线的
+obtain 获得
+recognize 识别 确认
+adjust 使....适合 调整
+replace 归还 替代
+broadband 宽带
+gateway 通道 网关
+icon 画像 图标
+offer 出价 录取 提议
+attach 附加
+interview 面谈 面试
+folder 折叠 文件夹
+customized 自定义 定制
+cursor 光标
+compatible 兼容的
+view 视野 意见 查看 考虑
+navigate 操控 解决
+attend 照顾 出席
+code 代码 编码
+analyze 分析 分解
+refactor 重构
+tools 工具
+build 建立 构造 体格
+cancel 取消 撤销
+exists 存在 出现
+start 开始 起点 出发
+stop 停止 堵塞
+charset 字符集
+alter 改变
+after 后来 以后 在..之后
+column 列

@@ -1,0 +1,15 @@
+compatible 兼容的
+view 视野 意见 查看 考虑
+navigate 操控 解决
+analyze 分析 分解
+refactor 重构
+build 建立 构造 体格
+boot 引导
+handle 操作
+exists 存在 出现
+start 开始 起点 出发
+stop 停止 堵塞
+charset 字符集
+alter 改变
+after 后来 以后 在..之后
+column 列
